@@ -1,3 +1,7 @@
+<div style="background-color: #000; font-family: monospace; color: white; padding: 1em; text-align: center;">
+    <h1>Juan Cruz Lescano</h1>
+</div>
+
 ### Hi there 👋
 
 <!--
