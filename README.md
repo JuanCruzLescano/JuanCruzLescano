@@ -1,6 +1,14 @@
-![header](./images/Untitled.png)
+![header](images/Untitled.png)
 
-### Hi there 👋
+# **Fullstack Developer** :computer:
+
+## **Principal projects** :rocket:
+
+## Frontend :nail_care:
+
+- [Charger E-commerce](https://github.com/JuanCruzLescano/charger-ecommerce) Desarrolle un e-commerce completo durante 1 mes, dentro de un equipo de 5 personas mediante metodologías agiles (SCRUM).
+
+![Charger](images/homepage.png)
 
 <!--
 **JuanCruzLescano/JuanCruzLescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
