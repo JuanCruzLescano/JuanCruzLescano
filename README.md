@@ -9,7 +9,14 @@ Apasionado por la tecnología, la música y la fotografía. Me encanta aprender 
 
 Desde que empecé con el desarrollo web, me enamoré completamente, con el simple hecho de que no existe limite alguno, solo la imaginación.
 
-Abajo cito mis mejores proyectos :point_down: :
+---
+Actualmente estoy trabajando en [<Web Dev Resources>](https://github.com/JuanCruzLescano/web-dev-resources) :point_right: Una pagina que recopila los mejores recursos para el desarrollo web :telescope:
+
+Y aprendiendo Typescript, GraphQL y React Native :seedling:
+
+---
+
+Abajo cito mis mejores proyectos :point_down:
 
 ## **Principal projects** :rocket:
 
