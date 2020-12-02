@@ -7,7 +7,7 @@ Tengo 21 años y, gracias a la pandemia, empecé a desarrollarme como Developer.
 
 Apasionado por la tecnología, la música y la fotografía. Me encanta aprender cosas nuevas y de una forma rápida, para poder sacarle el mejor provecho a todo lo nuevo que aprendo.
 
-Me enamoré de la programación ni bien empecé, por el solo hecho de que el único limite es la imaginación de uno `(bastante cliché, pero verdadero)`.
+Me enamoré de la programación ni bien empecé, por el solo hecho de que el único limite es la imaginación de uno `(bastante cliché).`
 
 ---
 
